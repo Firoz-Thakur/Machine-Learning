@@ -1,23 +1,6 @@
 <?xml version="1.0"?>
 <!--
-    Stump-based 20x20 gentle adaboost frontal face detector.
-    Created by Rainer Lienhart.
-
-////////////////////////////////////////////////////////////////////////////////////////
-
-  IMPORTANT: READ BEFORE DOWNLOADING, COPYING, INSTALLING OR USING.
-
-  By downloading, copying, installing or using the software you agree to this license.
-  If you do not agree to this license, do not download, install,
-  copy or use the software.
-
-
-                        Intel License Agreement
-                For Open Source Computer Vision Library
-
- Copyright (C) 2000, Intel Corporation, all rights reserved.
- Third party copyrights are property of their respective owners.
-
+    
  Redistribution and use in source and binary forms, with or without modification,
  are permitted provided that the following conditions are met:
 

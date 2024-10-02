@@ -1,6 +1,4 @@
-# ML
-Here's a description you can use for your machine learning repository:
-
+# MACHINE LEARNING & AI
 ---
 
 ### Machine Learning Repository
